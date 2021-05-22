@@ -1,3 +1,7 @@
+.item3{
+  font-size: 50px;
+    margin-bottom: 100px;
+}
 .grid{
     justify-content: space-evenly;
     font-family:cursive;
@@ -24,19 +28,14 @@
 }
 
  
-.item1{
+.item2{
     font-family:cursive;
-    background-color: gray;
+    background-color: blue;
     font-size: 50px;
       
 }
 
-.item3{
-  font-family:sans-serif;
-  background-color: white;
-  font-size: 50px;
-    margin-bottom: 100px;
-}
+
 
 a:link{
     color: white;
@@ -67,7 +66,7 @@ a:link{
     color: white;
   }
 
-  .item1  img:hover{
+  .item2  img:hover{
     transform: scale(1.2);
   }
   
